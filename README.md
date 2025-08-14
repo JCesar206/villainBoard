@@ -1,12 +1,8 @@
-# React + Vite
+# Villain Board React + Tailwind
+Project VillainBoard Villain Dashboard Project made with React + Tailwind.<br>
+The project allows you to enter the villain's name, their evil plan, and an image of them.<br>
+The information is saved in local storage.<br>
+It allows you to edit or delete saved information and download a simple PDF with the name and plan.<br>
+It features a footer with modern icons and social media links.<br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Thank you :octocat:
